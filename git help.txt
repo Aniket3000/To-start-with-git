@@ -1,0 +1,19 @@
+git clone <url>
+
+move into the git repo
+
+then add files there or make files and work on them
+
+git add filename
+
+git commit -m "message"
+
+git status
+
+git push
+
+
+to pull the new version of git when you are working on the previous one
+then
+
+git pull
